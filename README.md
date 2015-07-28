@@ -16,7 +16,7 @@ An overview of the iCampus development infrastructure is available at
 The illustration provides several links that direct to the depicted
 systems. The figure simplifies the orientation for developers.
 
-![]
+![](img/iCampusLogo_V2.png)
 
 Process
 -------
@@ -42,4 +42,3 @@ projects and iCampus working group can be found at:
 Questions may be directed to the following email address:
 icampus@lists.thm.de
 
-  []: dev.mni.overview.png "dev.mni.overview.png"
