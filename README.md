@@ -3,6 +3,8 @@
 <a href="http://icampus.thm.de"><img src="img/iCampusLogo_V2.png" 
 alt="Homepage of iCampus"height="180" /></a>
 
+Joomla extensions, designed to handle the scheduling and planning needs of the universities sector. 
+
 In all software there are mistakes that need to be fixed. The source
 code of iCampus projects is centrally located on the internet, making it
 accessible to everyone. Besides that there is a possibility to report
@@ -18,10 +20,8 @@ alt="Issues"height="80" align="center"/></a>
 #Overview
 An overview of the iCampus development infrastructure is available at
 <http://dev.mni.thm.de/>.
-
 The illustration provides several links that direct to the depicted
 systems. The figure simplifies the orientation for developers.
-
 
 #Process
 In order to contribute to the iCampus software projects the first step
