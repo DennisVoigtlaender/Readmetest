@@ -10,8 +10,9 @@ bugs. Reported bugs will be solved and eventually need testing. This
 page explains how you can contribute to the iCampus projects by testing
 proposed solutions or sending change requests. You do not need to have
 any coding knowledge, you do need a Joomla installation to test on.
+
 <a href="http://icampus.thm.de"><img src="img/issues_button.png" 
-alt="IMAGE ALT TEXT HERE"height="180" /></a>
+alt="IMAGE ALT TEXT HERE"height="80" /></a>
 
 Overview
 --------
