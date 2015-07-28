@@ -1,4 +1,8 @@
 # Readmetest
+
+<a href="http://icampus.thm.de"><img src="img/iCampusLogo_V2.png" 
+alt="IMAGE ALT TEXT HERE"height="180" /></a>
+
 In all software there are mistakes that need to be fixed. The source
 code of iCampus projects is centrally located on the internet, making it
 accessible to everyone. Besides that there is a possibility to report
@@ -6,6 +10,8 @@ bugs. Reported bugs will be solved and eventually need testing. This
 page explains how you can contribute to the iCampus projects by testing
 proposed solutions or sending change requests. You do not need to have
 any coding knowledge, you do need a Joomla installation to test on.
+<a href="http://icampus.thm.de"><img src="img/issues_button.png" 
+alt="IMAGE ALT TEXT HERE"height="180" /></a>
 
 Overview
 --------
@@ -16,7 +22,6 @@ An overview of the iCampus development infrastructure is available at
 The illustration provides several links that direct to the depicted
 systems. The figure simplifies the orientation for developers.
 
-![1](img/iCampusLogo_V2.png)
 
 Process
 -------
@@ -41,4 +46,3 @@ projects and iCampus working group can be found at:
 
 Questions may be directed to the following email address:
 icampus@lists.thm.de
-[1]: http://google.de
