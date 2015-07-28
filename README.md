@@ -10,14 +10,12 @@ bugs. Reported bugs will be solved and eventually need testing. This
 page explains how you can contribute to the iCampus projects by testing
 proposed solutions or sending change requests. You do not need to have
 any coding knowledge, you do need a Joomla installation to test on.
-<div>
+<p>
 <a href="http://icampus.thm.de"><img src="img/issues_button.png" 
 alt="IMAGE ALT TEXT HERE"height="80" align="right"/></a>
-</div>
+</p>
 
-Overview
---------
-
+#Overview
 An overview of the iCampus development infrastructure is available at
 <http://dev.mni.thm.de/>.
 
@@ -25,9 +23,7 @@ The illustration provides several links that direct to the depicted
 systems. The figure simplifies the orientation for developers.
 
 
-Process
--------
-
+#Process
 In order to contribute to the iCampus software projects the first step
 is to discover the latest projects on GitHub. A description of the
 projects and iCampus working group can be found at:
